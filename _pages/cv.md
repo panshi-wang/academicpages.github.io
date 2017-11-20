@@ -15,16 +15,21 @@ Education
 ======
 * B.E. in Electronic Engineering, University of Science and Technology of China, 2008
 * M.E. in Electronic Engineering, University of Chinese Academy of Sciences, 2011
-* Ph.D in Geographical Sciences, University of Maryland, 2017 (expected)
+* Ph.D in Geographical Sciences, University of Maryland, 2017 (to be conferred)
 
 Work experience
 ======
-* Since 2012: Research Assistant
+* 2012 - present: Research Assistant
   * University of Maryland
   * Duties included: Developing and implementing global urban extent mapping methods
   * Supervisor: Professor Chengquan Huang
 
-* 2018 - 2011: Research Assistant
+* 2011 - 2012: Teaching Assistant
+  * University of Maryland
+  * Duties included: Developing data processing systems for a relative sensor calibration platform
+  * Supervisor: Dr. Yongchao Zhao
+
+* 2009 - 2011: Research Assistant
   * Institute of Electronics, Chinese Academy of Sciences
   * Duties included: Developing data processing systems for a relative sensor calibration platform
   * Supervisor: Dr. Yongchao Zhao

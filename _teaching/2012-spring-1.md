@@ -1,5 +1,5 @@
 ---
-title: "Spring 2012: Remote Sensing"
+title: "2012 Spring: Remote Sensing"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2012-spring-teaching-1
