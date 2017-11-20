@@ -26,8 +26,8 @@ Work experience
 
 * 2011 - 2012: Teaching Assistant
   * University of Maryland
-  * Duties included: Developing data processing systems for a relative sensor calibration platform
-  * Supervisor: Dr. Yongchao Zhao
+  * Duties included: Developing lab materials and leading lab sessions
+  * Supervisor: Professors Shunlin Liang and Stephen Prince
 
 * 2009 - 2011: Research Assistant
   * Institute of Electronics, Chinese Academy of Sciences
