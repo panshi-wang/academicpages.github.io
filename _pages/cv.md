@@ -9,32 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+Full version available as a <i>[PDF](https://panshi-wang.github.io/cv.pdf)</i> file .
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.E. in Electronic Engineering, University of Science and Technology of China, 2008
+* M.E. in Electronic Engineering, University of Chinese Academy of Sciences, 2011
+* Ph.D in Geographical Sciences, University of Maryland, 2017 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2012: Research Assistant
+  * University of Maryland
+  * Duties included: Developing and implementing global urban extent mapping methods
+  * Supervisor: Professor Chengquan Huang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2011: Research Assistant
+  * Institute of Electronics, Chinese Academy of Sciences
+  * Duties included: Developing data processing systems for a relative sensor calibration platform
+  * Supervisor: Dr. Yongchao Zhao
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Expertise on remote sensing datasets including Landsat, MODIS, VIIRS, Sentinel-1/-2, Nightlights (VIIRS/DMSP)
+* Computer programming
+  * C/C++ (10+ yrs)
+  * Python (8+ yrs)
+  * IDL (8+ yrs)
+  * Matlab (basic)
+  * Java (basic)
+* Geospatial tools
+  * ENVI (8+ yrs)
+  * ArcGIS (6+ yrs)
+  * QGIS (5+ yrs)
 
 Publications
 ======
@@ -56,4 +63,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for scienctific journals including <i>IEEE Transactions on Geoscience and Remote Sensing</i>, <i>International Journal of Remote Sensing</i>, <i>Urban Science</i>, and <i>Remote Sensing Applications: Society and Environment</i>
+* Co-chair of 2017 IGARSS session TU1.L12: Radar and Thermal Data for Urban Monitoring
+* Undergraduate mentor for University of Maryland, College of Behavioral and Social Sciences graduate mentor program (Fall 2013)
