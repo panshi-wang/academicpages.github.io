@@ -9,4 +9,7 @@ In this study, I found that the synergy of freely available datasets could indee
 
 <img src='/images/EnglandVolume.png'><br/>
 
+The dataset is downloadable via:
+Wang, Panshi; Huang, Chengquan, 2018, "30m Building Height/Volume of England Based on the Synergy of free elevation and Landsat Data", doi:10.7910/DVN/NNUDZG, Harvard Dataverse, V1 
+
 Stay tuned for more updates about this research.
