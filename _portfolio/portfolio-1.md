@@ -5,7 +5,7 @@ collection: portfolio
 ---
 <img src='/images/mot-lcc.png'><br/>
 
-I developed a Landsat imagery classification method based on Hierachical Object-based Texture (HOTex). This method was applied to the 2010 Global Land Survey Landsat imagery collection to produce a circa-2010 globla map of Human Built-up and Settlement Extent (HBASE). <br/>
+I developed a Landsat imagery classification method based on Hierachical Object-based Texture (HOTex , <https://doi.org/10.1109/IGARSS.2017.8127268>). This method was applied to the 2010 Global Land Survey Landsat imagery collection to produce a circa-2010 global map of Human Built-up and Settlement Extent (HBASE). <br/>
 
 <img src='/images/Global_HBASE.png'><br/>
 
