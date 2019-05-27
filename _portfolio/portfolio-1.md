@@ -14,3 +14,7 @@ This work is a part of the Global Land Survey Impervious Surface Mapping Project
 Watch here a video introduction on the HBASE and the companion Global Man-made Impervious Surface (GMIS) datasets:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/C2czdpgrrNQ/3.jpg)](http://www.youtube.com/watch?v=C2czdpgrrNQ)
+
+Here's the recording of a webinar by the PI of this project:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/AgPN9N_g_XI/0.jpg)](http://www.youtube.com/watch?v=AgPN9N_g_XI)
