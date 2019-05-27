@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Associate in the department of Geographical Sciences, University of Maryland (UMD) at College Park. I received my Ph.D. in Geographical Sciences at the University of Maryland in 2017. I hold M.E. and B.E. degrees in Electronic Engineering from the Chinese Academy of Sciences and the University of Science and Technology of China, respectively. I have broad interests in the fields of remote sensing, image processing and machine learning techniques for land cover mapping and change detection. My PhD study focuses on methods for characterizing global urban extent, change, and 3D structure, which led to a global 30-m product of Human Built-up and Settlement Extent (HBASE) using Landsat satellite data (<https://doi.org/10.7927/H4DN434S>).
+Panshi is a data scientist working on infomration extraction from satellite imagery. He has broad interests in remote sensing, image processing and machine learning techniques for land cover mapping and change detection. His research has led or contributed to the development of several large-scale land cover products, including the first 30-m global map of man-made impervious surface (GMIS),  a 30-m global map of Human Built-up and Settlement Extent (HBASE) using Landsat satellite data and the first 30-m country-level building volume map based on open geospatial data.
 
-I have been working towards characterizing land use and land cover change at broad spatial and temporal scales. You can find more about my past and ongoing [research](https://panshi-wang.github.io/portfolio/) on this site.  
+Panshi holds a B.E. in Electronic Engineering from the University of Science and Technology of China, an M.E. in signal and information processing from the Chinese Academy of Sciences, and a Ph.D. in Geographical Sciences from the University of Maryland.
+
+You can find more about Panshi's past and ongoing [research](https://panshi-wang.github.io/portfolio/) on this site.  
