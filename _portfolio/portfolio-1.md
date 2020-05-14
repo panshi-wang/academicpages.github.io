@@ -1,5 +1,5 @@
 ---
-title: "Global Human Built-up and Settlement Extent (HBASE)"
+title: "Global Human Built-up And Settlement Extent (HBASE)"
 excerpt: "<img src='/images/Global_HBASE.png'>"
 collection: portfolio
 ---
